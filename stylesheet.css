@@ -6,10 +6,12 @@ p.thick {
 body {
     background-color: #F5DEB3;}
 h1 {
+    font-family: cursive;
     color: #7B3F00;}
 h2 {
     color: #E1AD01;
-    outline: 1px #7B3F00;}
+    outline: 1px;
+    outline-color: #7B3F00;}
 h3 {
     color: #E97451;
     opacity: 0.8;}
