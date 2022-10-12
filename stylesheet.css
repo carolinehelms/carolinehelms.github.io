@@ -2,16 +2,16 @@ p.lighter {
     font-weight: lighter;}
 p.thick {
     font-weight: bold;
-    background-color: pink}
+    background-color: pink;}
 body {
-    background-color: azure}
+    background-color: azure;}
 h1 {
-    color: red}
+    color: red;}
 h2 {
-    color: green}
+    color: green;}
 h3 {
-    color: blue}
+    color: blue;}
 h4 {
-    color: darkred}
+    color: darkred;}
 p {
-    color: darkgrey}
+    color: grey;}
