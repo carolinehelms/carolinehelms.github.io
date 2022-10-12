@@ -2,17 +2,18 @@ p.lighter {
     font-weight: lighter;}
 p.thick {
     font-weight: bold;
-    background-color: pink;}
+    background-color: #808000;}
 body {
-    background-color: azure;}
+    background-color: #F5DEB3;}
 h1 {
     color: #7B3F00;}
 h2 {
     color: #E1AD01;
     outline: 1px #7B3F00;}
 h3 {
-    color: #E97451;}
+    color: #E97451;
+    opacity: 0.8;}
 h4 {
     color: #E1AD01;}
 p {
-    color: grey;}
+    color: #E97451;}
