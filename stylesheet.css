@@ -1,0 +1,11 @@
+p.lighter {
+    font-weight: lighter;}
+p.thick {
+    font-weight: bold;
+    background-color: pink}
+body {
+    background-color: azure}
+h2 {
+    color: green}
+h3 {
+    color: blue}
