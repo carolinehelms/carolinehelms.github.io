@@ -6,12 +6,13 @@ p.thick {
 body {
     background-color: azure;}
 h1 {
-    color: saddlebrown;}
+    color: #7B3F00;}
 h2 {
-    color: green;}
+    color: #E1AD01;
+    outline-color: #7B3F00;}
 h3 {
     color: blue;}
 h4 {
-    color: goldenrod;}
+    color: #E1AD01;}
 p {
     color: grey;}
